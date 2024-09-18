@@ -1,0 +1,19 @@
+﻿@model List<Web01.Models.Laptop>
+
+<table class="table table-primary">
+    <tr>
+        <th>Laptop Brand</th>
+        <th>Laptop Model</th>
+        <th>Laptop Price</th>
+        <th>Laptop Quantity</th>
+    </tr>
+    @foreach(var laptop in Model)
+    {
+        <tr>
+            <td>@laptop.Brand</td>
+             <td>@laptop.Model</td>
+            <td>$@laptop.Price</td>
+            <td>@laptop.Quantity</td>
+        </tr>
+    }
+</table>

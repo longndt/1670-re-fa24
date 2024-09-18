@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\workspace\\FGW-1670\\1670-re-fa24\\Lesson01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B47D220-FA4E-44ED-8F28-66F5D71E0D60}|Web01\\Web01.csproj|d:\\workspace\\fgw-1670\\1670-re-fa24\\lesson01\\web01\\views\\laptop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B47D220-FA4E-44ED-8F28-66F5D71E0D60}|Web01\\Web01.csproj|solutionrelative:web01\\views\\laptop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B47D220-FA4E-44ED-8F28-66F5D71E0D60}|Web01\\Web01.csproj|d:\\workspace\\fgw-1670\\1670-re-fa24\\lesson01\\web01\\controllers\\laptopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B47D220-FA4E-44ED-8F28-66F5D71E0D60}|Web01\\Web01.csproj|solutionrelative:web01\\controllers\\laptopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 23,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 90,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\workspace\\FGW-1670\\1670-re-fa24\\Lesson01\\Web01\\Views\\Laptop\\Index.cshtml",
+              "RelativeDocumentMoniker": "Web01\\Views\\Laptop\\Index.cshtml",
+              "ToolTip": "D:\\workspace\\FGW-1670\\1670-re-fa24\\Lesson01\\Web01\\Views\\Laptop\\Index.cshtml",
+              "RelativeToolTip": "Web01\\Views\\Laptop\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-18T09:04:26.77Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 62,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LaptopController.cs",
+              "DocumentMoniker": "D:\\workspace\\FGW-1670\\1670-re-fa24\\Lesson01\\Web01\\Controllers\\LaptopController.cs",
+              "RelativeDocumentMoniker": "Web01\\Controllers\\LaptopController.cs",
+              "ToolTip": "D:\\workspace\\FGW-1670\\1670-re-fa24\\Lesson01\\Web01\\Controllers\\LaptopController.cs",
+              "RelativeToolTip": "Web01\\Controllers\\LaptopController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwB8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T08:52:59.44Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+﻿<h1>Country: @ViewBag.Country</h1>
+<h1>Year: @ViewData["Year"]</h1>
+<ol>
+    @foreach(var club in ViewBag.Clubs)
+    {
+        <li>@club</li>
+    }
+</ol>
