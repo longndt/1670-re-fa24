@@ -3,28 +3,16 @@
   "WorkspaceRootPath": "D:\\workspace\\FGW-1670\\1670-re-fa24\\Lesson02\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{48B84979-24FE-45A7-9587-3CDF807E2E29}|Web01\\Web01.csproj|d:\\workspace\\fgw-1670\\1670-re-fa24\\lesson02\\web01\\controllers\\applecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{48B84979-24FE-45A7-9587-3CDF807E2E29}|Web01\\Web01.csproj|solutionrelative:web01\\controllers\\applecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{541AD169-71CF-475C-8501-194EA974559E}|Web02\\Web02.csproj|d:\\workspace\\fgw-1670\\1670-re-fa24\\lesson02\\web02\\views\\laptops\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{541AD169-71CF-475C-8501-194EA974559E}|Web02\\Web02.csproj|solutionrelative:web02\\views\\laptops\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{48B84979-24FE-45A7-9587-3CDF807E2E29}|Web01\\Web01.csproj|d:\\workspace\\fgw-1670\\1670-re-fa24\\lesson02\\web01\\views\\apple\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{48B84979-24FE-45A7-9587-3CDF807E2E29}|Web01\\Web01.csproj|solutionrelative:web01\\views\\apple\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{541AD169-71CF-475C-8501-194EA974559E}|Web02\\Web02.csproj|d:\\workspace\\fgw-1670\\1670-re-fa24\\lesson02\\web02\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{541AD169-71CF-475C-8501-194EA974559E}|Web02\\Web02.csproj|solutionrelative:web02\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{48B84979-24FE-45A7-9587-3CDF807E2E29}|Web01\\Web01.csproj|d:\\workspace\\fgw-1670\\1670-re-fa24\\lesson02\\web01\\views\\apple\\iphone.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{48B84979-24FE-45A7-9587-3CDF807E2E29}|Web01\\Web01.csproj|solutionrelative:web01\\views\\apple\\iphone.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{48B84979-24FE-45A7-9587-3CDF807E2E29}|Web01\\Web01.csproj|d:\\workspace\\fgw-1670\\1670-re-fa24\\lesson02\\web01\\views\\apple\\macbook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{48B84979-24FE-45A7-9587-3CDF807E2E29}|Web01\\Web01.csproj|solutionrelative:web01\\views\\apple\\macbook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{48B84979-24FE-45A7-9587-3CDF807E2E29}|Web01\\Web01.csproj|d:\\workspace\\fgw-1670\\1670-re-fa24\\lesson02\\web01\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{48B84979-24FE-45A7-9587-3CDF807E2E29}|Web01\\Web01.csproj|solutionrelative:web01\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{48B84979-24FE-45A7-9587-3CDF807E2E29}|Web01\\Web01.csproj|d:\\workspace\\fgw-1670\\1670-re-fa24\\lesson02\\web01\\views\\apple\\ipad.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{48B84979-24FE-45A7-9587-3CDF807E2E29}|Web01\\Web01.csproj|solutionrelative:web01\\views\\apple\\ipad.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{541AD169-71CF-475C-8501-194EA974559E}|Web02\\Web02.csproj|d:\\workspace\\fgw-1670\\1670-re-fa24\\lesson02\\web02\\models\\laptop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{541AD169-71CF-475C-8501-194EA974559E}|Web02\\Web02.csproj|solutionrelative:web02\\models\\laptop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,94 +22,49 @@
       "DocumentGroups": [
         {
           "DockedWidth": 184,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
-            }
-          ]
-        },
-        {
-          "DockedWidth": 184,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AppleController.cs",
-              "DocumentMoniker": "D:\\workspace\\FGW-1670\\1670-re-fa24\\Lesson02\\Web01\\Controllers\\AppleController.cs",
-              "RelativeDocumentMoniker": "Web01\\Controllers\\AppleController.cs",
-              "ToolTip": "D:\\workspace\\FGW-1670\\1670-re-fa24\\Lesson02\\Web01\\Controllers\\AppleController.cs",
-              "RelativeToolTip": "Web01\\Controllers\\AppleController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-25T07:25:14.001Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\workspace\\FGW-1670\\1670-re-fa24\\Lesson02\\Web01\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Web01\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\workspace\\FGW-1670\\1670-re-fa24\\Lesson02\\Web01\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Web01\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-25T07:21:27.611Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Macbook.cshtml",
-              "DocumentMoniker": "D:\\workspace\\FGW-1670\\1670-re-fa24\\Lesson02\\Web01\\Views\\Apple\\Macbook.cshtml",
-              "RelativeDocumentMoniker": "Web01\\Views\\Apple\\Macbook.cshtml",
-              "ToolTip": "D:\\workspace\\FGW-1670\\1670-re-fa24\\Lesson02\\Web01\\Views\\Apple\\Macbook.cshtml",
-              "RelativeToolTip": "Web01\\Views\\Apple\\Macbook.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAABIAQAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-25T07:20:46.627Z",
+              "DocumentIndex": 1,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\workspace\\FGW-1670\\1670-re-fa24\\Lesson02\\Web02\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Web02\\wwwroot\\css\\site.css",
+              "ToolTip": "D:\\workspace\\FGW-1670\\1670-re-fa24\\Lesson02\\Web02\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Web02\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAABEAAAAAAAAAAADwvxcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-25T08:51:11.216Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Iphone.cshtml",
-              "DocumentMoniker": "D:\\workspace\\FGW-1670\\1670-re-fa24\\Lesson02\\Web01\\Views\\Apple\\Iphone.cshtml",
-              "RelativeDocumentMoniker": "Web01\\Views\\Apple\\Iphone.cshtml",
-              "ToolTip": "D:\\workspace\\FGW-1670\\1670-re-fa24\\Lesson02\\Web01\\Views\\Apple\\Iphone.cshtml",
-              "RelativeToolTip": "Web01\\Views\\Apple\\Iphone.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAABIAQAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-25T07:20:01.46Z",
+              "Title": "Laptop.cs",
+              "DocumentMoniker": "D:\\workspace\\FGW-1670\\1670-re-fa24\\Lesson02\\Web02\\Models\\Laptop.cs",
+              "RelativeDocumentMoniker": "Web02\\Models\\Laptop.cs",
+              "ToolTip": "D:\\workspace\\FGW-1670\\1670-re-fa24\\Lesson02\\Web02\\Models\\Laptop.cs",
+              "RelativeToolTip": "Web02\\Models\\Laptop.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwkAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T08:45:44.809Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Ipad.cshtml",
-              "DocumentMoniker": "D:\\workspace\\FGW-1670\\1670-re-fa24\\Lesson02\\Web01\\Views\\Apple\\Ipad.cshtml",
-              "RelativeDocumentMoniker": "Web01\\Views\\Apple\\Ipad.cshtml",
-              "ToolTip": "D:\\workspace\\FGW-1670\\1670-re-fa24\\Lesson02\\Web01\\Views\\Apple\\Ipad.cshtml",
-              "RelativeToolTip": "Web01\\Views\\Apple\\Ipad.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAABIAQAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\workspace\\FGW-1670\\1670-re-fa24\\Lesson02\\Web02\\Views\\Laptops\\Create.cshtml",
+              "RelativeDocumentMoniker": "Web02\\Views\\Laptops\\Create.cshtml",
+              "ToolTip": "D:\\workspace\\FGW-1670\\1670-re-fa24\\Lesson02\\Web02\\Views\\Laptops\\Create.cshtml*",
+              "RelativeToolTip": "Web02\\Views\\Laptops\\Create.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-25T07:19:20Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\workspace\\FGW-1670\\1670-re-fa24\\Lesson02\\Web01\\Views\\Apple\\Index.cshtml",
-              "RelativeDocumentMoniker": "Web01\\Views\\Apple\\Index.cshtml",
-              "ToolTip": "D:\\workspace\\FGW-1670\\1670-re-fa24\\Lesson02\\Web01\\Views\\Apple\\Index.cshtml",
-              "RelativeToolTip": "Web01\\Views\\Apple\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAACwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-25T07:06:02.508Z",
+              "WhenOpened": "2024-09-25T08:39:36.732Z",
               "EditorCaption": ""
             }
           ]
