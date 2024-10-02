@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\workspace\\FGW-1670\\1670-re-fa24\\Lesson04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{099DD071-F6A9-4932-AD3B-F02903EBD30F}|ManyToMany\\ManyToMany.csproj|d:\\workspace\\fgw-1670\\1670-re-fa24\\lesson04\\manytomany\\views\\studentcourses\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{099DD071-F6A9-4932-AD3B-F02903EBD30F}|ManyToMany\\ManyToMany.csproj|solutionrelative:manytomany\\views\\studentcourses\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{099DD071-F6A9-4932-AD3B-F02903EBD30F}|ManyToMany\\ManyToMany.csproj|d:\\workspace\\fgw-1670\\1670-re-fa24\\lesson04\\manytomany\\controllers\\studentcoursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{099DD071-F6A9-4932-AD3B-F02903EBD30F}|ManyToMany\\ManyToMany.csproj|solutionrelative:manytomany\\controllers\\studentcoursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{099DD071-F6A9-4932-AD3B-F02903EBD30F}|ManyToMany\\ManyToMany.csproj|d:\\workspace\\fgw-1670\\1670-re-fa24\\lesson04\\manytomany\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{099DD071-F6A9-4932-AD3B-F02903EBD30F}|ManyToMany\\ManyToMany.csproj|solutionrelative:manytomany\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{099DD071-F6A9-4932-AD3B-F02903EBD30F}|ManyToMany\\ManyToMany.csproj|d:\\workspace\\fgw-1670\\1670-re-fa24\\lesson04\\manytomany\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{099DD071-F6A9-4932-AD3B-F02903EBD30F}|ManyToMany\\ManyToMany.csproj|solutionrelative:manytomany\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 177,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\workspace\\FGW-1670\\1670-re-fa24\\Lesson04\\ManyToMany\\Views\\StudentCourses\\Create.cshtml",
+              "RelativeDocumentMoniker": "ManyToMany\\Views\\StudentCourses\\Create.cshtml",
+              "ToolTip": "D:\\workspace\\FGW-1670\\1670-re-fa24\\Lesson04\\ManyToMany\\Views\\StudentCourses\\Create.cshtml",
+              "RelativeToolTip": "ManyToMany\\Views\\StudentCourses\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxMAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T08:31:37.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CoursesController.cs",
+              "DocumentMoniker": "D:\\workspace\\FGW-1670\\1670-re-fa24\\Lesson04\\ManyToMany\\Controllers\\CoursesController.cs",
+              "RelativeDocumentMoniker": "ManyToMany\\Controllers\\CoursesController.cs",
+              "ToolTip": "D:\\workspace\\FGW-1670\\1670-re-fa24\\Lesson04\\ManyToMany\\Controllers\\CoursesController.cs",
+              "RelativeToolTip": "ManyToMany\\Controllers\\CoursesController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T08:31:06.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\workspace\\FGW-1670\\1670-re-fa24\\Lesson04\\ManyToMany\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ManyToMany\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\workspace\\FGW-1670\\1670-re-fa24\\Lesson04\\ManyToMany\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ManyToMany\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABAAAAAAAAAAAAAwwB4AAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T08:28:39.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentCoursesController.cs",
+              "DocumentMoniker": "D:\\workspace\\FGW-1670\\1670-re-fa24\\Lesson04\\ManyToMany\\Controllers\\StudentCoursesController.cs",
+              "RelativeDocumentMoniker": "ManyToMany\\Controllers\\StudentCoursesController.cs",
+              "ToolTip": "D:\\workspace\\FGW-1670\\1670-re-fa24\\Lesson04\\ManyToMany\\Controllers\\StudentCoursesController.cs",
+              "RelativeToolTip": "ManyToMany\\Controllers\\StudentCoursesController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAADwvzQAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T08:27:26.334Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -8486,11 +8486,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\workspace\\FGW-1670\\1670-re-fa24\\Lesson04\\Lesson04.csproj",
-      "projectName": "Lesson04",
-      "projectPath": "D:\\workspace\\FGW-1670\\1670-re-fa24\\Lesson04\\Lesson04.csproj",
+      "projectUniqueName": "D:\\workspace\\FGW-1670\\1670-re-fa24\\Lesson03\\Lesson03.csproj",
+      "projectName": "Lesson03",
+      "projectPath": "D:\\workspace\\FGW-1670\\1670-re-fa24\\Lesson03\\Lesson03.csproj",
       "packagesPath": "C:\\Users\\GRAM\\.nuget\\packages\\",
-      "outputPath": "D:\\workspace\\FGW-1670\\1670-re-fa24\\Lesson04\\obj\\",
+      "outputPath": "D:\\workspace\\FGW-1670\\1670-re-fa24\\Lesson03\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
