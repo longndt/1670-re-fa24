@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\workspace\\FGW-1670\\1670-re-fa24\\Lesson05\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{82702AD0-683C-4574-AB2C-E015A3412B5E}|Lesson05.csproj|d:\\workspace\\fgw-1670\\1670-re-fa24\\lesson05\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82702AD0-683C-4574-AB2C-E015A3412B5E}|Lesson05.csproj|solutionrelative:controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82702AD0-683C-4574-AB2C-E015A3412B5E}|Lesson05.csproj|d:\\workspace\\fgw-1670\\1670-re-fa24\\lesson05\\wwwroot\\images\\4144d46c-acfd-4b44-b93b-deaf7ce63656_images.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{82702AD0-683C-4574-AB2C-E015A3412B5E}|Lesson05.csproj|solutionrelative:wwwroot\\images\\4144d46c-acfd-4b44-b93b-deaf7ce63656_images.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82702AD0-683C-4574-AB2C-E015A3412B5E}|Lesson05.csproj|d:\\workspace\\fgw-1670\\1670-re-fa24\\lesson05\\wwwroot\\images\\e4adc48c-c62f-4b01-a044-44fa25c0976a_images.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{82702AD0-683C-4574-AB2C-E015A3412B5E}|Lesson05.csproj|solutionrelative:wwwroot\\images\\e4adc48c-c62f-4b01-a044-44fa25c0976a_images.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82702AD0-683C-4574-AB2C-E015A3412B5E}|Lesson05.csproj|d:\\workspace\\fgw-1670\\1670-re-fa24\\lesson05\\wwwroot\\images\\0_iphone-15-pro-max-gold-thumbnew-600x600.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{82702AD0-683C-4574-AB2C-E015A3412B5E}|Lesson05.csproj|solutionrelative:wwwroot\\images\\0_iphone-15-pro-max-gold-thumbnew-600x600.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Lesson05Context_45f95f9e_9c95_40fa_837d_adcb41efd7f6/True/SqlTable/dbo.Product.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82702AD0-683C-4574-AB2C-E015A3412B5E}|Lesson05.csproj|d:\\workspace\\fgw-1670\\1670-re-fa24\\lesson05\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82702AD0-683C-4574-AB2C-E015A3412B5E}|Lesson05.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82702AD0-683C-4574-AB2C-E015A3412B5E}|Lesson05.csproj|d:\\workspace\\fgw-1670\\1670-re-fa24\\lesson05\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{82702AD0-683C-4574-AB2C-E015A3412B5E}|Lesson05.csproj|solutionrelative:views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "0_iphone-15-pro-max-gold-thumbnew-600x600.jpg",
+              "DocumentMoniker": "D:\\workspace\\FGW-1670\\1670-re-fa24\\Lesson05\\wwwroot\\images\\0_iphone-15-pro-max-gold-thumbnew-600x600.jpg",
+              "RelativeDocumentMoniker": "wwwroot\\images\\0_iphone-15-pro-max-gold-thumbnew-600x600.jpg",
+              "ToolTip": "D:\\workspace\\FGW-1670\\1670-re-fa24\\Lesson05\\wwwroot\\images\\0_iphone-15-pro-max-gold-thumbnew-600x600.jpg",
+              "RelativeToolTip": "wwwroot\\images\\0_iphone-15-pro-max-gold-thumbnew-600x600.jpg",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-10-04T09:27:20.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "e4adc48c-c62f-4b01-a044-44fa25c0976a_images.jpg",
+              "DocumentMoniker": "D:\\workspace\\FGW-1670\\1670-re-fa24\\Lesson05\\wwwroot\\images\\e4adc48c-c62f-4b01-a044-44fa25c0976a_images.jpg",
+              "RelativeDocumentMoniker": "wwwroot\\images\\e4adc48c-c62f-4b01-a044-44fa25c0976a_images.jpg",
+              "ToolTip": "D:\\workspace\\FGW-1670\\1670-re-fa24\\Lesson05\\wwwroot\\images\\e4adc48c-c62f-4b01-a044-44fa25c0976a_images.jpg",
+              "RelativeToolTip": "wwwroot\\images\\e4adc48c-c62f-4b01-a044-44fa25c0976a_images.jpg",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-10-04T09:27:14.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "4144d46c-acfd-4b44-b93b-deaf7ce63656_images.jpg",
+              "DocumentMoniker": "D:\\workspace\\FGW-1670\\1670-re-fa24\\Lesson05\\wwwroot\\images\\4144d46c-acfd-4b44-b93b-deaf7ce63656_images.jpg",
+              "RelativeDocumentMoniker": "wwwroot\\images\\4144d46c-acfd-4b44-b93b-deaf7ce63656_images.jpg",
+              "ToolTip": "D:\\workspace\\FGW-1670\\1670-re-fa24\\Lesson05\\wwwroot\\images\\4144d46c-acfd-4b44-b93b-deaf7ce63656_images.jpg",
+              "RelativeToolTip": "wwwroot\\images\\4144d46c-acfd-4b44-b93b-deaf7ce63656_images.jpg",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-10-04T09:26:37.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "dbo.Product [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Lesson05Context_45f95f9e_9c95_40fa_837d_adcb41efd7f6/True/SqlTable/dbo.Product.sql",
+              "ToolTip": "dbo.Product [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-10-04T09:17:30.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\workspace\\FGW-1670\\1670-re-fa24\\Lesson05\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\workspace\\FGW-1670\\1670-re-fa24\\Lesson05\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Controllers\\ProductsController.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAywEUAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T09:05:37.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\workspace\\FGW-1670\\1670-re-fa24\\Lesson05\\Views\\Products\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Products\\Create.cshtml",
+              "ToolTip": "D:\\workspace\\FGW-1670\\1670-re-fa24\\Lesson05\\Views\\Products\\Create.cshtml",
+              "RelativeToolTip": "Views\\Products\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwwAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-04T08:57:46.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\workspace\\FGW-1670\\1670-re-fa24\\Lesson05\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "D:\\workspace\\FGW-1670\\1670-re-fa24\\Lesson05\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T08:57:37.14Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
